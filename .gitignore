@@ -1,0 +1,30 @@
+# Ignore the .env file to keep sensitive credentials private
+.env
+
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+
+# Ignore CSV files (if they are local samples)
+*.csv
+
+# Ignore logs
+*.log
+
+# Ignore system-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore any temporary files created by editors
+*.swp
+*.swo
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
+
+# Ignore dependencies if you're using a virtual environment
+*.egg-info/
