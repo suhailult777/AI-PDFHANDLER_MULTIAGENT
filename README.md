@@ -124,3 +124,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Datastax AstraDB](https://www.datastax.com/astra)
 - [AWS](https://aws.amazon.com)
 
+## Streamlit Frontend access
+
+https://suhailult777-ai-pdfhandler-multiagent-main-jjanbx.streamlit.app/
+
